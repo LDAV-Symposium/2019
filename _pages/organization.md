@@ -10,16 +10,39 @@ title: Organization
 <div class="left">
 ## Symposium Chairs
 
+Hongfeng Yu
+: University of Nebraska-Lincoln
+
 Kenneth Moreland
 : Sandia National Laboratories
+
+## Paper Chairs
+
+Chaoli Wang - tentitive
+: University of Notre Dame
+
+Julien Tierny
+: CNRS - Sorbonne Universit&eacute;
+
+## Poster Co-Chairs
+
+Khairi Reda - tentitive
+: Indiana University - Purdue University Indianapolis
+
+Tom Vierjahn
+: Westphalian University of Applied Sciences, Bocholt
+</div>
+<div class="right">
+## Steering Committee
 
 Christoph Garth
 : University of Kaiserslautern
 
-## Steering Committee
+Hank Childs
+: University of Oregon
 
-James Ahrens
-: Los Alamos National Laboratory
+Janine Bennett
+: Sandia National Laboratories
 
 Chris Johnson
 : University of Utah
@@ -30,27 +53,8 @@ Kwan-Liu Ma
 Michael Papka
 : Argonne National Laboratory
 </div>
-<div class="right">
-## Paper Chairs
 
-Danyel Fisher
-: Microsoft Research
-
-Julien Tierny
-: CNRS - Sorbonne Universit&eacute;
-
-Hongfeng Yu
-: University of Nebraska-Lincoln
-
-## Poster Co-Chairs
-
-Katherine Isaacs
-: University of Arizona
-
-Tom Vierjahn
-: Westphalian University of Applied Sciences, Bocholt
-</div>
-
+<!--
 <div class="left">
 ## Program Committee
 
@@ -184,6 +188,7 @@ Chaoli Wang
 Jinrong Xie
 : eBay, Inc.
 </div>
+-->
 <div class="right">
 <h2>&nbsp;</h2>
 </div>
