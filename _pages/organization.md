@@ -21,7 +21,7 @@ Kenneth Moreland
 Kristi Potter
 : National Renewable Energy Laboratory
 
-Chaoli Wang - tentitive
+Chaoli Wang
 : University of Notre Dame
 
 Julien Tierny
@@ -29,7 +29,7 @@ Julien Tierny
 
 ## Poster Co-Chairs
 
-Khairi Reda - tentitive
+Khairi Reda
 : Indiana University - Purdue University Indianapolis
 
 Tom Vierjahn
