@@ -18,6 +18,9 @@ Kenneth Moreland
 
 ## Paper Chairs
 
+Kristi Potter
+: National Renewable Energy Laboratory
+
 Chaoli Wang - tentitive
 : University of Notre Dame
 
