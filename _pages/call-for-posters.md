@@ -7,7 +7,7 @@ title: Call for Posters
 
 Contact: <posters@ldav.org>
 
-We invite you to submit unpublished work to the IEEE LDAV 2018 Poster Program.
+We invite you to submit unpublished work to the IEEE LDAV 2019 Poster Program.
 The poster program is a venue designed to highlight ongoing research and late breaking topics that have produced promising preliminary results. 
 The poster program will be a great opportunity 
 for the authors to interact with the symposium attendees and solicit feedback.
@@ -22,7 +22,7 @@ The format of the summary will be the same as the format used for the regular pa
 Poster authors are encouraged, but not required, to include a draft or sketch of the poster layout and content in their submission. 
 This would help reviewers and show that the poster format is used effectively. 
 The draft poster should be in PDF format. 
-The authors should indicate if the poster would be accompanied by an on-site demonstration and/or videos.
+The authors should indicate if they would like the poster to be accompanied by an on-site demonstration and/or videos. Such demo/video presentations have to be self-organized.
 
 ## Poster 2-Page Summary Submission Instructions
 
@@ -32,8 +32,8 @@ The summary should be formatted according to guidelines available on the [IEEE V
 **Submission Site:**
 Go to the [submission site](https://new.precisionconference.com/~vgtc), log in, go to 'Submissions', and select 
 * Society: 'VGTC'
-* Conference: 'LDAV 2018'
-* Track: 'LDAV 2018 Posters'.
+* Conference: 'LDAV 2019'
+* Track: 'LDAV 2019 Posters'.
 
 ## Layout and Dimensions of the Posters
 
@@ -55,10 +55,10 @@ Plagiarism in any form is unacceptable and will lead to a removal of the submiss
 ## Important Dates
 
 Two-page poster paper submission
-: August 24, 2018, 11:59 PM (AOE)
+: August 17, 2019, 11:59 PM (AOE)
 
 Author Notification:	
-: August 28, 2018
+: August 21, 2019
 
 Camera-Ready Deadline
-: September 03, 2018
+: September 28, 2019
