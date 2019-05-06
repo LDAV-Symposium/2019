@@ -57,94 +57,87 @@ Michael Papka
 : Argonne National Laboratory
 </div>
 
-<!--
 <div class="left">
 ## Program Committee
 
-Greg Abram
-: Texas Advanced Computing Center
+Jeff Baumes
+: Kitware, Inc.
 
-Lailani Battle
-: Univeristy of Maryland, College Park
+Janine Bennett
+: Sandia National Laboratories
 
 Wes Bethel
-: Lawrence Berkeley National Lab
-
-Johanna Beyer
-: Harvard University
+: Lawrence Berkeley National Laboratory
 
 Harsh Bhatia
 : Lawrence Livermore National Laboratory
 
-Carsten Binning
-: Technische Universit&auml;t Darmstadt
-
-Timo Bremer
-: Lawrence Livermore National Laboratory
-
 Chris Bryan
-: University of California, Davis
+: Arizona State University
 
-David Camp
-: Lawrence Berkeley National Laboratory
-
-Aashish Chaudhary
-: Kitware, Inc.
-
-Wei Chen
-: Zhejiang University
-
-Hank Childs
-: University of Oregon
+Silvia Castro
+: Universidad Nacional del Sur
 
 Amit Chourasia
 : San Diego Supercomputer Center
 
-Pat Crossno
-: Sandia National Laboratories
-
 Harish Doraiswamy
 : New York University
+
+Soumya Dutta
+: Los Alamos National Laboratory
+
+Steffen Frey
+: University of Stuttgart
+
+Issei Fujishiro
+: Keio University
 
 Kelly Gaither
 : Texas Advanced Computing Center
 
-Tobias Guenther
-: Eidgen&ouml;ssische Technische Hochschule Z&uuml;rich
+Berk Geveci
+: Kitware, Inc.
 
-Markus Hadwiger
-: King Abdullah University of Science and Technology
+Tobias G&uuml;ther
+: ETH Zurich
 
-Bernd Henstschel
-: Rwth Aachen University
+Hanqi Guo
+: Argonne National Laboratory
 
-Won-Ki Jeong
-: Ulsan National Institute of Science and Technology
-
-Ming Jiang
-: Lawrence Livermore National Laboratory
+Ingrid Hotz
+: Link&ouml;ing University
 </div>
 
 <div class="right">
 ## &nbsp;
 
-James T. Klosowski
-: AT&T Research 
+Jian Huang
+: University of Tennessee, Knoxville
+
+Katherine Isaacs
+: University of Arizona
+
+Won-Ki Jeong
+: Ulsan National Institute of Science and Technology
+
+Yun Jang
+: Sejong University
+
+Joshua Levine
+: University of Arizona
+
+Peter Lindstrom
+: Lawrence Livermore National Laboratory
+
+Shusen Liu
+: Lawrence Livermore National Laboratory
 
 Zhicheng Liu
-: Adobe
+: Adobe Research
 
 Kwan-Liu Ma
 : University of California, Davis
-
-Torsten Moeller
-: University of Vienna
-
-Klaus Mueller
-: SUNY Stony Brook
-
-Vijay Natarajan
-: Indian Institute of Science
 
 Ron Oldfield
 : Sandia National Laboratories
@@ -152,48 +145,18 @@ Ron Oldfield
 Patrick  O'Leary
 : Kitware, Inc.
 
-Valerio Pascucci
-: University of Utah
-
-Kristi Potter
-: National Renewable Energy Laboratory
-
-Bruno Raffin
-: INRIA
-
-Khairi Reda
-: Indiana University-Purdue University Indianapolis
-
-Filip Sadlo
-: Heidelberg University
-
-Carlos Scheidegger
-: University of Arizona
-
-Tim Shead
-: Sandia National Laboratories
-
-Han-Wei Shen
-: Ohio State University
-
 Brian Summa
 : Tulane University
 
-David Thompson
-: Kitware, Inc.
+Jun Tao
+: Sun Yat-sen University
 
-Huy T. Vo
-: New York University
+Xavier Tricoche
+: Purdue University
 
-Chaoli Wang
-: University of Notre Dame
+Yang Wang
+: Uber Technologies, Inc.
 
-Jinrong Xie
-: eBay, Inc.
-</div>
--->
-<div class="right">
-<h2>&nbsp;</h2>
 </div>
 
 - - -
