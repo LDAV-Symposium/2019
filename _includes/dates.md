@@ -1,7 +1,7 @@
 # Important Dates
 
 Paper Abstracts
-: June 17, 2019
+: June 24, 2019 (extended)
 
 Paper Submissions
 : June 24, 2019

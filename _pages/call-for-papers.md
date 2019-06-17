@@ -111,8 +111,8 @@ reviewing criteria. This award will be announced in conjunction with VIS
 
 Please note: all deadlines are firm and no extensions will be granted.
 
-Abstract Deadline (firm)
-: June 17, 2019
+Abstract Deadline 
+: June 24, 2019 (extended)
 
 Paper Submission (firm)
 : June 24, 2019, 11:59 PM (AOE)
