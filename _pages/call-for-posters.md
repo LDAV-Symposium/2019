@@ -55,10 +55,10 @@ Plagiarism in any form is unacceptable and will lead to a removal of the submiss
 ## Important Dates
 
 Two-page poster paper submission
-: August 17, 2019, 11:59 PM (AOE)
+: August 24, 2019, 11:59 PM (AOE, extended)
 
 Author Notification:	
-: August 21, 2019
+: August 28, 2019
 
 Camera-Ready Deadline
-: August 28, 2019
+: September 4, 2019
