@@ -13,7 +13,7 @@ Camera-Ready Deadline
 : August 17, 2019
 
 Poster Submissions
-: August 17, 2019
+: August 24, 2019
 
 ## Symposium
 
