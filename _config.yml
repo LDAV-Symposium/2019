@@ -13,8 +13,8 @@ description: >
 navigation:
  - title: Home
    url: index.html
-# - title: Program
-#   url: program.html
+ - title: Program
+   url: program.html
 # - title: Presenter Information
 #   url: presenters.html 
  - title: Call for Papers
