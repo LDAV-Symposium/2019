@@ -128,8 +128,8 @@ _Professor Chris R. Johnson, Scientific Computing & Imaging (SCI) Institute, Uni
 
 We live in the Age of Data. Ninety percent of all data in the world has
 been created in the past two years alone, at a rate of exabytes per day.
-New data of all kinds - structured, unstructured, quantitative,
-qualitative, spatial, and temporal - is growing exponentially and in every
+New data of all kinds &mdash; structured, unstructured, quantitative,
+qualitative, spatial, and temporal &mdash; is growing exponentially and in every
 way. Given the vast amount of data being produced, one of our greatest
 scientific challenges is to effectively understand and make use of it.
 Because visualization both facilitates the reasoning process by supporting
