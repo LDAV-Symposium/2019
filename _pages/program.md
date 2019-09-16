@@ -34,7 +34,7 @@ title: Program
       <ul>
         <li>
           Force-Directed Graph Layouts by Edge Sampling<br/>
-          <i><!--Author List--></i>
+          <i>Robert Gove</i>
         </li>
       </ul>
     </td>
@@ -51,19 +51,19 @@ title: Program
 	  <ul>
 	    <li>
 		  Feature Tracking Utilizing a Maximum-Weight Independent Set Problem<br/>
-          <i><!--Author List--></i>
+          <i>Andrea Schnorr, Dirk Norbert Helmrich, Hank Childs, Torsten Wolfgang Kuhlen, Bernd Hentschel</i>
         </li>
 	    <li>
 		  Low-Overhead In Situ Visualization Using Halo Replay <br/>
-          <i><!--Author List--></i>
+          <i>Jeff Ames, Silvio Rizzi, Joseph Insley, Saumil Patel, Benjamín Hernández, Amanda Randles</i>
         </li>
 	    <li>
 		  Interactive Rendering of Large-Scale Volumes on Multi-Core CPUs<br/>
-          <i><!--Author List--></i>
+          <i>Feng Wang, Ingo Wald, Chris R. Johnson</i>
 		</li>
 	    <li>
 		  PxStream: Remote Visualization for Distributed Rendering Frameworks<br/>
-          <i><!--Author List--></i>
+          <i>Thomas Marrinan, Silvio Rizzi, Joseph Insley, Lance Long, Luc Renambot, Michael E. Papka, </i>
 		</li>
 	  </ul>
 	</td>
@@ -80,19 +80,19 @@ title: Program
 	  <ul>
 	    <li>
 		  Distributed Percolation Analysis for Turbulent Flows<br/>
-          <i><!--Author List--></i>
+          <i>Anke Friederici, Wiebke Köpp, Marco Atzori, Ricardo Vinuesa, Philipp Schlatter, Tino Weinkauf</i>
         </li>
 	    <li>
 		  A Lifeline-Based Approach for Work Requesting and Parallel Particle Advection<br/>
-          <i><!--Author List--></i>
+          <i>Roba Binyahib, David Pugmire, Boyana Norris, Hank Childs</i>
         </li>
 	    <li>
 		  Ranking Viscous Finger Simulations to an Acquired Ground Truth with Topology-aware Matchings<br/>
-          <i><!--Author List--></i>
+          <i>Maxime Soler, Martin Petitfrère, Gilles Darche, Mélanie Plainchault, Bruno Conche, Julien Tierny</i>
 		</li>
 	    <li>
 		  Topology-Based Spectral Sparsification<br/>
-          <i><!--Author List--></i>
+          <i>Amyra Meidiana, Seok-Hee Hong, Jiajun Huang, Peter Eades, Kwan-Liu Ma</i>
 		</li>
 	  </ul>
 	</td>
@@ -106,8 +106,8 @@ title: Program
 	<td>
 	  <h4>Panel</h4>
 	  <b>AI + VIS in the Era of Big Data</b><br/>
-	  <i><!--Panelists: --></i><br/>
-	  <small><!--Description--></small>
+	  <!--<i>Panelists: </i><br/>-->
+	  <small>With the advent of deep learning, the renaissance of AI as a viable solution for solving challenging computer vision and natural language processing problems has quickly swept across a wide variety of fields including VIS. Since 2016, we have witnessed a thriving trend of successful research works in both VIS for AI and AI for VIS. At IEEE LDAV 2019, we organize this panel and invite experts to discuss their experience and thoughts on AI + VIS in the era of big data, and share their view of existing challenges and future directions of this research.</small>
 	</td>
   </tr>
   <tr>
