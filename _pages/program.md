@@ -106,6 +106,7 @@ title: Program
 	<td>
 	  <h4>Panel</h4>
 	  <b>AI + VIS in the Era of Big Data</b><br/>
+	  <i>Moderator: Chaoli Wang</i><br/>
 	  <i>Panelists: Remco Chang, Joshua Levine, Huamin Qu, Han-Wei Shen</i><br/>
 	  <small>With the advent of deep learning, the renaissance of AI as a viable solution for solving challenging computer vision and natural language processing problems has quickly swept across a wide variety of fields including VIS. Since 2016, we have witnessed a thriving trend of successful research works in both VIS for AI and AI for VIS. At IEEE LDAV 2019, we organize this panel and invite experts to discuss their experience and thoughts on AI + VIS in the era of big data, and share their view of existing challenges and future directions of this research.</small>
 	</td>
