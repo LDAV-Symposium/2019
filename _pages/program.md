@@ -170,17 +170,17 @@ Reception, which is happening the evening before LDAV on Sunday, October
 Authors will summarize their posters during a fast forward session at the
 beginning of LDAV.
 
-  * Large-Scale Cinematic Visualization Using Universal Scene Description  
-    _Mark Bolstad_
-  * Real-Time Compression of Dynamically Generated Images for Offscreen Rendering  
-    _Leah Emerson, Thomas Marrinan_
-  * VAMD: Visual Analytics for Multimodal Data  
-    _John Fallon, R. Jordan Crouser_
-  * Topological Analysis of High Velocity Turbulent Flow  
+  * Bringing the Field into the Lab: Large-Scale Visualization of Animal Movement Trajectories within a Virtual Island<br />
+   _Jillian Aurisano, James Hwang, Andrew Johnson, Lance Long, Margaret Crofoot, Tanya Berger-Wolf_
+  * Large-Scale Cinematic Visualization Using Universal Scene Description<br />
+    _Mark A. Bolstad_
+  * Topological Analysis of High Velocity Turbulent Flow<br />
     _Thibault Bridel-Bertomeu, Benjamin Fovet, Julien Tierny, Fabien Vivodtzev_
-  * Parallel Particle Advection and Lagrangian Analysis for 3D-PLI Fiber Orientation Maps  
-    _Ali Can Demiralp, Daniel Zielasko, Markus Axer, Tom Vierjahn, Torsten Wolfgang Kuhlen_
-  * A Proposed Framework for Interactive Virtual Reality In Situ Visualization of Parallel Numerical Simulations
+  * Parallel Particle Advection and Lagrangian Analysis for 3D-PLI Fiber Orientation Maps<br />
+    _Ali C. Demiralp, Daniel Zielasko, Markus Axer, Tom Vierjahn, Torsten W. Kuhlen_
+  * Real-Time Compression of Dynamically Generated Images for Offscreen Rendering<br />
+    _Leah Emerson, Thomas Marrinan_
+  * VAMD: Visual Analytics for Multimodal Data<br />
+    _John Fallon, R. Jordan Crouser_
+  * A Proposed Framework for Interactive Virtual Reality In Situ Visualization of Parallel Numerical Simulations<br />
     _Aryaman Gupta, Ulrik Günther, Pietro Incardona, Ata Deniz Aydin, Raimund Dachselt, Stefan Gumhold, Ivo F. Sbalzarini_
-  * Bringing the Field into the Lab: Large-Scale Visualization of Animal Movement Trajectories within a Virtual Island
-    _Jillian Aurisano, James Hwang, Andrew E Johnson, Lance Long, Margaret Crofoot, Tanya Berger-Wolf_
