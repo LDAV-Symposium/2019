@@ -80,14 +80,17 @@ title: Program
 	  <ul>
 	    <li>
 		  Distributed Percolation Analysis for Turbulent Flows<br/>
+		  <font color="#0087FF">Best Paper Honorable Mention</font><br/>
           <i>Anke Friederici, Wiebke Köpp, Marco Atzori, Ricardo Vinuesa, Philipp Schlatter, Tino Weinkauf</i>
         </li>
 	    <li>
 		  A Lifeline-Based Approach for Work Requesting and Parallel Particle Advection<br/>
+		  <font color="#0087FF">Best Paper Honorable Mention</font><br/>
           <i>Roba Binyahib, David Pugmire, Boyana Norris, Hank Childs</i>
         </li>
 	    <li>
 		  Ranking Viscous Finger Simulations to an Acquired Ground Truth with Topology-aware Matchings<br/>
+		  <font color="#0087FF"><strong>Best Paper</strong></font><br/>
           <i>Maxime Soler, Martin Petitfrère, Gilles Darche, Mélanie Plainchault, Bruno Conche, Julien Tierny</i>
 		</li>
 	    <li>
