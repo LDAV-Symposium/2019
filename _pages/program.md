@@ -130,6 +130,12 @@ title: Program
 **Visual Analysis in the Age of Data**<br/>
 _Professor Chris R. Johnson, Scientific Computing & Imaging (SCI) Institute, University of Utah, USA_
 
+<span style="font-size: smaller;">
+[slides pptx](http://files.ieeevis.org/LDAV-Keynote-Johnson-2019.pptx)
+&nbsp;&nbsp;
+[slides pdf](http://files.ieeevis.org/LDAV-Keynote-Johnson-2019.pdf)
+</span>
+
 We live in the Age of Data. Ninety percent of all data in the world has
 been created in the past two years alone, at a rate of exabytes per day.
 New data of all kinds &mdash; structured, unstructured, quantitative,
