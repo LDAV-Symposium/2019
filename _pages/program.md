@@ -14,7 +14,7 @@ title: Program
     <td>
       Opening Remarks<br/>
       Posters Fast Forward
-	  <a style="font-size: smaller;" href="#posters">Details</a>
+      <a style="font-size: smaller;" href="#posters">Details</a>
     </td>
   </tr>
   <tr>
@@ -35,6 +35,7 @@ title: Program
         <li>
           Force-Directed Graph Layouts by Edge Sampling<br/>
           <i>Robert Gove</i>
+          <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367944948" target="_blank">Presentation</a>
         </li>
       </ul>
     </td>
@@ -45,28 +46,32 @@ title: Program
   </tr>
   <tr>
     <td>10:50am &ndash; 12:10pm</td>
-	<td>
-	  <h4>Session: Feature Tracking and Rendering</h4>
-	  (Session Chair: Chris Bryan)
-	  <ul>
-	    <li>
-		  Feature Tracking Utilizing a Maximum-Weight Independent Set Problem<br/>
+    <td>
+      <h4>Session: Feature Tracking and Rendering</h4>
+      (Session Chair: Chris Bryan)
+      <ul>
+        <li>
+          Feature Tracking Utilizing a Maximum-Weight Independent Set Problem<br/>
           <i>Andrea Schnorr, Dirk Norbert Helmrich, Hank Childs, Torsten Wolfgang Kuhlen, Bernd Hentschel</i>
+          <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367950051" target="_blank">Presentation</a>
         </li>
-	    <li>
-		  Low-Overhead In Situ Visualization Using Halo Replay <br/>
+        <li>
+          Low-Overhead In Situ Visualization Using Halo Replay <br/>
           <i>Jeff Ames, Silvio Rizzi, Joseph Insley, Saumil Patel, Benjamín Hernández, Amanda Randles</i>
+          <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367949285" target="_blank">Presentation</a>
         </li>
-	    <li>
-		  Interactive Rendering of Large-Scale Volumes on Multi-Core CPUs<br/>
+        <li>
+          Interactive Rendering of Large-Scale Volumes on Multi-Core CPUs<br/>
           <i>Feng Wang, Ingo Wald, Chris R. Johnson</i>
-		</li>
-	    <li>
-		  PxStream: Remote Visualization for Distributed Rendering Frameworks<br/>
+          <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367947903" target="_blank">Presentation</a>
+        </li>
+        <li>
+          PxStream: Remote Visualization for Distributed Rendering Frameworks<br/>
           <i>Thomas Marrinan, Silvio Rizzi, Joseph Insley, Lance Long, Luc Renambot, Michael E. Papka, </i>
-		</li>
-	  </ul>
-	</td>
+          <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367946612" target="_blank">Presentation</a>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>12:20pm &ndash; 2:20 pm</td>
@@ -74,54 +79,59 @@ title: Program
   </tr>
   <tr>
     <td>2:20pm &ndash; 3:40pm</td>
-	<td>
-	  <h4>Session: Turbulence, Particles and Topology</h4>
-	  (Session Chair: Xavier Tricoche)
-	  <ul>
-	    <li>
-		  Distributed Percolation Analysis for Turbulent Flows<br/>
-		  <font color="#0087FF">Best Paper Honorable Mention</font><br/>
+    <td>
+      <h4>Session: Turbulence, Particles and Topology</h4>
+      (Session Chair: Xavier Tricoche)
+      <ul>
+        <li>
+          Distributed Percolation Analysis for Turbulent Flows<br/>
+          <font color="#0087FF">Best Paper Honorable Mention</font><br/>
           <i>Anke Friederici, Wiebke Köpp, Marco Atzori, Ricardo Vinuesa, Philipp Schlatter, Tino Weinkauf</i>
+          <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/376254826" target="_blank">Presentation</a>
         </li>
-	    <li>
-		  A Lifeline-Based Approach for Work Requesting and Parallel Particle Advection<br/>
-		  <font color="#0087FF">Best Paper Honorable Mention</font><br/>
+        <li>
+          A Lifeline-Based Approach for Work Requesting and Parallel Particle Advection<br/>
+          <font color="#0087FF">Best Paper Honorable Mention</font><br/>
           <i>Roba Binyahib, David Pugmire, Boyana Norris, Hank Childs</i>
+          <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/376255016" target="_blank">Presentation</a>
         </li>
-	    <li>
-		  Ranking Viscous Finger Simulations to an Acquired Ground Truth with Topology-aware Matchings<br/>
-		  <font color="#0087FF"><strong>Best Paper</strong></font><br/>
+        <li>
+          Ranking Viscous Finger Simulations to an Acquired Ground Truth with Topology-aware Matchings<br/>
+          <font color="#0087FF"><strong>Best Paper</strong></font><br/>
           <i>Maxime Soler, Martin Petitfrère, Gilles Darche, Mélanie Plainchault, Bruno Conche, Julien Tierny</i>
-		</li>
-	    <li>
-		  Topology-Based Spectral Sparsification<br/>
+          <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/376255841" target="_blank">Presentation</a>
+        </li>
+        <li>
+          Topology-Based Spectral Sparsification<br/>
           <i>Amyra Meidiana, Seok-Hee Hong, Jiajun Huang, Peter Eades, Kwan-Liu Ma</i>
-		</li>
-	  </ul>
-	</td>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>3:50pm &ndash; 4:10pm</td>
-	<td>Break</td>
+    <td>Break</td>
   </tr>
   <tr>
     <td>4:10pm &ndash; 5:10pm</td>
-	<td>
-	  <h4>Panel</h4>
-	  <b>AI + VIS in the Era of Big Data</b><br/>
-	  <i>Moderator: Chaoli Wang</i><br/>
-	  <i>Panelists: Remco Chang, Joshua Levine, Huamin Qu, Han-Wei Shen</i><br/>
-	  <small>With the advent of deep learning, the renaissance of AI as a viable solution for solving challenging computer vision and natural language processing problems has quickly swept across a wide variety of fields including VIS. Since 2016, we have witnessed a thriving trend of successful research works in both VIS for AI and AI for VIS. At IEEE LDAV 2019, we organize this panel and invite experts to discuss their experience and thoughts on AI + VIS in the era of big data, and share their view of existing challenges and future directions of this research.</small>
-	</td>
+    <td>
+      <h4>Panel</h4>
+      <b>AI + VIS in the Era of Big Data</b><br/>
+      <i>Moderator: Chaoli Wang</i><br/>
+      <i>Panelists: Remco Chang, Joshua Levine, Huamin Qu, Han-Wei Shen</i><br/>
+      <small>With the advent of deep learning, the renaissance of AI as a viable solution for solving challenging computer vision and natural language processing problems has quickly swept across a wide variety of fields including VIS. Since 2016, we have witnessed a thriving trend of successful research works in both VIS for AI and AI for VIS. At IEEE LDAV 2019, we organize this panel and invite experts to discuss their experience and thoughts on AI + VIS in the era of big data, and share their view of existing challenges and future directions of this research.</small>
+    </td>
   </tr>
   <tr>
     <td>5:10pm &ndash; 5:30pm</td>
-	<td>
-	  Best Paper Awards<br/>
-	  Closing Remarks
-	</td>
+    <td>
+      Best Paper Awards<br/>
+      Closing Remarks
+    </td>
   </tr>
 </table>
+
+[Video Showcase](https://vimeo.com/showcase/6518210)
 
 ---
 
@@ -178,6 +188,8 @@ Reception, which is happening the evening before LDAV on Sunday, October
 20, 7:00pm &ndash; 9:00pm. The posters will be on display throughout LDAV.
 Authors will summarize their posters during a fast forward session at the
 beginning of LDAV.
+
+<a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367943211" target="_blank">Fast Forward Video</a>
 
   * Bringing the Field into the Lab: Large-Scale Visualization of Animal Movement Trajectories within a Virtual Island<br />
    _Jillian Aurisano, James Hwang, Andrew Johnson, Lance Long, Margaret Crofoot, Tanya Berger-Wolf_
