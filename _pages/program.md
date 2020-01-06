@@ -33,7 +33,7 @@ title: Program
       (Session Chair: Brian Summa)
       <ul>
         <li>
-          Force-Directed Graph Layouts by Edge Sampling<br/>
+          <a href="https://doi.org/10.1109/LDAV48142.2019.8944364" target="_blank">Force-Directed Graph Layouts by Edge Sampling</a><br/>
           <i>Robert Gove</i>
           <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367944948" target="_blank">Presentation</a>
         </li>
@@ -51,22 +51,22 @@ title: Program
       (Session Chair: Chris Bryan)
       <ul>
         <li>
-          Feature Tracking Utilizing a Maximum-Weight Independent Set Problem<br/>
+          <a href="https://doi.org/10.1109/LDAV48142.2019.8944363" target="_blank">Feature Tracking Utilizing a Maximum-Weight Independent Set Problem</a><br/>
           <i>Andrea Schnorr, Dirk Norbert Helmrich, Hank Childs, Torsten Wolfgang Kuhlen, Bernd Hentschel</i>
           <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367950051" target="_blank">Presentation</a>
         </li>
         <li>
-          Low-Overhead In Situ Visualization Using Halo Replay <br/>
+          <a href="https://doi.org/10.1109/LDAV48142.2019.8944265" target="_blank">Low-Overhead In Situ Visualization Using Halo Replay</a><br/>
           <i>Jeff Ames, Silvio Rizzi, Joseph Insley, Saumil Patel, Benjamín Hernández, Amanda Randles</i>
           <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367949285" target="_blank">Presentation</a>
         </li>
         <li>
-          Interactive Rendering of Large-Scale Volumes on Multi-Core CPUs<br/>
+          <a href="https://doi.org/10.1109/LDAV48142.2019.8944267" target="_blank">Interactive Rendering of Large-Scale Volumes on Multi-Core CPUs</a><br/>
           <i>Feng Wang, Ingo Wald, Chris R. Johnson</i>
           <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367947903" target="_blank">Presentation</a>
         </li>
         <li>
-          PxStream: Remote Visualization for Distributed Rendering Frameworks<br/>
+          <a href="https://doi.org/10.1109/LDAV48142.2019.8944369" target="_blank">PxStream: Remote Visualization for Distributed Rendering Frameworks</a><br/>
           <i>Thomas Marrinan, Silvio Rizzi, Joseph Insley, Lance Long, Luc Renambot, Michael E. Papka, </i>
           <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367946612" target="_blank">Presentation</a>
         </li>
@@ -84,25 +84,25 @@ title: Program
       (Session Chair: Xavier Tricoche)
       <ul>
         <li>
-          Distributed Percolation Analysis for Turbulent Flows<br/>
+          <a href="https://doi.org/10.1109/LDAV48142.2019.8944383" target="_blank">Distributed Percolation Analysis for Turbulent Flows</a><br/>
           <font color="#0087FF">Best Paper Honorable Mention</font><br/>
           <i>Anke Friederici, Wiebke Köpp, Marco Atzori, Ricardo Vinuesa, Philipp Schlatter, Tino Weinkauf</i>
           <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/376254826" target="_blank">Presentation</a>
         </li>
         <li>
-          A Lifeline-Based Approach for Work Requesting and Parallel Particle Advection<br/>
+          <a href="https://doi.org/10.1109/LDAV48142.2019.8944355" target="_blank">A Lifeline-Based Approach for Work Requesting and Parallel Particle Advection</a><br/>
           <font color="#0087FF">Best Paper Honorable Mention</font><br/>
           <i>Roba Binyahib, David Pugmire, Boyana Norris, Hank Childs</i>
           <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/376255016" target="_blank">Presentation</a>
         </li>
         <li>
-          Ranking Viscous Finger Simulations to an Acquired Ground Truth with Topology-aware Matchings<br/>
+          <a href="https://doi.org/10.1109/LDAV48142.2019.8944365" target="_blank">Ranking Viscous Finger Simulations to an Acquired Ground Truth with Topology-aware Matchings</a><br/>
           <font color="#0087FF"><strong>Best Paper</strong></font><br/>
           <i>Maxime Soler, Martin Petitfrère, Gilles Darche, Mélanie Plainchault, Bruno Conche, Julien Tierny</i>
           <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/376255841" target="_blank">Presentation</a>
         </li>
         <li>
-          Topology-Based Spectral Sparsification<br/>
+          <a href="https://doi.org/10.1109/LDAV48142.2019.8944358" target="_blank">Topology-Based Spectral Sparsification</a><br/>
           <i>Amyra Meidiana, Seok-Hee Hong, Jiajun Huang, Peter Eades, Kwan-Liu Ma</i>
         </li>
       </ul>
@@ -191,17 +191,17 @@ beginning of LDAV.
 
 <a style="font-size: smaller; display: block;" href="https://vimeo.com/showcase/6518210/video/367943211" target="_blank">Fast Forward Video</a>
 
-  * Bringing the Field into the Lab: Large-Scale Visualization of Animal Movement Trajectories within a Virtual Island<br />
+  * <a href="https://doi.org/10.1109/LDAV48142.2019.8944350" target="_blank">Bringing the Field into the Lab: Large-Scale Visualization of Animal Movement Trajectories within a Virtual Island</a><br />
    _Jillian Aurisano, James Hwang, Andrew Johnson, Lance Long, Margaret Crofoot, Tanya Berger-Wolf_
-  * Large-Scale Cinematic Visualization Using Universal Scene Description<br />
+  * <a href="https://doi.org/10.1109/LDAV48142.2019.8944362" target="_blank">Large-Scale Cinematic Visualization Using Universal Scene Description</a><br />
     _Mark A. Bolstad_
-  * Topological Analysis of High Velocity Turbulent Flow<br />
+  * <a href="https://doi.org/10.1109/LDAV48142.2019.8944351" target="_blank">Topological Analysis of High Velocity Turbulent Flow</a><br />
     _Thibault Bridel-Bertomeu, Benjamin Fovet, Julien Tierny, Fabien Vivodtzev_
-  * Parallel Particle Advection and Lagrangian Analysis for 3D-PLI Fiber Orientation Maps<br />
+  * <a href="https://doi.org/10.1109/LDAV48142.2019.8944378" target="_blank">Parallel Particle Advection and Lagrangian Analysis for 3D-PLI Fiber Orientation Maps</a><br />
     _Ali C. Demiralp, Daniel Zielasko, Markus Axer, Tom Vierjahn, Torsten W. Kuhlen_
-  * Real-Time Compression of Dynamically Generated Images for Offscreen Rendering<br />
+  * <a href="https://doi.org/10.1109/LDAV48142.2019.8944381" target="_blank">Real-Time Compression of Dynamically Generated Images for Offscreen Rendering</a><br />
     _Leah Emerson, Thomas Marrinan_
-  * VAMD: Visual Analytics for Multimodal Data<br />
+  * <a href="https://doi.org/10.1109/LDAV48142.2019.8944264" target="_blank">VAMD: Visual Analytics for Multimodal Data</a><br />
     _John Fallon, R. Jordan Crouser_
-  * A Proposed Framework for Interactive Virtual Reality In Situ Visualization of Parallel Numerical Simulations<br />
+  * <a href="https://doi.org/10.1109/LDAV48142.2019.8944368" target="_blank">A Proposed Framework for Interactive Virtual Reality In Situ Visualization of Parallel Numerical Simulations</a><br />
     _Aryaman Gupta, Ulrik Günther, Pietro Incardona, Ata Deniz Aydin, Raimund Dachselt, Stefan Gumhold, Ivo F. Sbalzarini_
