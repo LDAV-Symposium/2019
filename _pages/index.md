@@ -26,8 +26,6 @@ tracks. Topic emphasis is on algorithms, languages, systems, and/or hardware
 solutions that support the collection, analysis, manipulation, or visualization
 of large-scale data.
 
-**More information will be forthcoming.**
-
 <!--
 There are a variety of ways to participate in LDAV 2019:
 
